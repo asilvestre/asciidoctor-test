@@ -1,0 +1,10 @@
+= MY DOC
+:toc: center
+
+:numbered:
+== Chapter 1
+
+
+<<<
+
+=== Chapter 1.2
